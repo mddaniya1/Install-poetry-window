@@ -7,7 +7,7 @@
 ### Note: If you've installed Python through the Microsoft Store, replace `py` with `python` in the command below.
 
    ```
-   (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
+   (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
    ```
 
   
